@@ -8,7 +8,7 @@ Paper title:
 RSCFed: Random Sampling Consensus Federated Semi-supervised Learning
 
 Link to the paper:
-https://ieeexplore......
+https://openaccess.thecvf.com/content/CVPR2022/papers/Liang_RSCFed_Random_Sampling_Consensus_Federated_Semi-Supervised_Learning_CVPR_2022_paper.pdf
 
 Group Number:
 1
