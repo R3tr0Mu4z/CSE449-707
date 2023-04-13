@@ -2,10 +2,10 @@ Paper title:
 Federated Learning approach to bone metastasis prediction
 
 Link to unlisted YouTube video:
-https://youtu.be/t9EqQXCXCho
+https://youtu.be/0Huv0Q_ySds
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1ltwnnzW-ZyCEf2eyzUleW502XjEJDhnyyOLbGenkULM/edit?usp=sharing
+(Presented directly from paper)
 
 Overleaf link:
 https://www.overleaf.com/read/ptqsffwpjwhd
